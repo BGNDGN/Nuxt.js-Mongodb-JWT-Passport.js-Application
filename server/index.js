@@ -15,7 +15,7 @@ app.listen(port, () => {
   console.log(`Server listening at http://localhost:${port}`);
 });
 
-const uri = "mongodb+srv://burakgundogan:ekmek3456@burakgundogan.jubqn.mongodb.net/KullanıcıBilgileri?retryWrites=true&w=majority&appName=burakgundogan";
+const uri = "mongodb+srv://<>:<>@burakgundogan.jubqn.mongodb.net/<>?retryWrites=true&w=majority&appName=<>";
 
 async function initializeDatabase() {
   try {
