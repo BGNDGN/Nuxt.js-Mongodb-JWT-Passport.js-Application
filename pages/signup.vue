@@ -139,25 +139,8 @@ hr {
   margin-top: 10px;
 }
 
-.gmailSign, .facebookSign {
-  border: 2px solid black;
-  border-radius: 5px;
-  padding: 5px;
-  background-color: aliceblue;
-}
-
-.gmailSign:hover {
-  background-color: orangered;
-  transition: 0.3s;
-}
-
-.facebookSign:hover {
-  background-color: rgb(70, 70, 255);
-  transition: 0.3s;
-}
-
 #text {
-margin-left: 35px;
+margin-left: 23px;
 }
 
 #backToLoginPage {
